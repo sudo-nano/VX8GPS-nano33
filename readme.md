@@ -13,7 +13,7 @@ This project originally started with me attempting to complete the build outline
 
 - [The original project that I started with](https://github.com/dfannin/arduino-vx8r-gps)
 - [The code that I modified for this project](https://github.com/WaterstarRunner/VX8GPS-Xiao)
-- [The blog post associated with the above code](https://www.youtube.com/watch?v=OsPHpx0k7n8) (I didn't actually find this blog post until after the project was completed)
+- [The blog post associated with the above code](https://blog.waterstar.run/2021/03/a-simplified-vx-8dr-gps-design.html) (I didn't actually find this blog post until after the project was completed)
 - [The stackoverflow thread I referenced when adding the code for a software serial port](https://stackoverflow.com/questions/57175348/softwareserial-for-arduino-nano-33-iot)
 
 ## Parts List
