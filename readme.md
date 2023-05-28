@@ -20,7 +20,7 @@ This project originally started with me attempting to complete the build outline
 
   - VX-8 handheld transceiver (duh) 
   - CT-M11 microphone cable
-  - Arduino Nano 33 (the [Nano 33 IoT](https://store.arduino.cc/products/arduino-nano-33-iot) (The Nano 33 IoT is what I used for this build. I don't know whether the Nano 33 BT works for this, so I recommend using the Nano IoT. The IoT and BT features are not used in this build.)
+  - Arduino Nano 33 (the [Nano 33 IoT](https://store.arduino.cc/products/arduino-nano-33-iot) is what I used for this build. I don't know whether the Nano 33 BT works for this, so I recommend using the Nano IoT. The IoT and BT features are not used here.)
   - NEO-6M GPS module (Note that you want the module with the chip and other electronics on a PCB as well as an external antenna, not just the NEO-6M chip.)
   - Soldering equipment and wire
   - Micro-USB cable for the arduino
